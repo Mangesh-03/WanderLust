@@ -53,8 +53,10 @@ WanderLust/
 ├── views/           # EJS templates
 ├── public/          # Static files (CSS, JS)
 ├── utils/           # Helper functions
-├── middleware/      # Custom middleware
+├── middleware.js    # Custom middleware
 ├── app.js           # Entry point
+├── cloud_config.js  # Cloudnary Config
+├── multer.js
 └── package.json
 ```
 
